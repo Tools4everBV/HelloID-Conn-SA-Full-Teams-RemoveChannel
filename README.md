@@ -1,6 +1,6 @@
 <!-- Description -->
 ## Description
-This HelloID Service Automation Delegated Form provides can delete a Channel of a Microsoft Teams Team
+This HelloID Service Automation Delegated Form can delete a Channel of a Microsoft Teams Team
 
 <!-- Requirements -->
 ## Requirements
