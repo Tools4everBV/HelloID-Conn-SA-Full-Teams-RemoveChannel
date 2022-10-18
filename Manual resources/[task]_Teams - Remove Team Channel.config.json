@@ -1,4 +1,4 @@
 {
-  "name": "Teams - Remove Team Channel",
-  "runInCloud": false
+    "name":  "Teams (Graph API) - Remove Team Channel",
+    "runInCloud":  false
 }

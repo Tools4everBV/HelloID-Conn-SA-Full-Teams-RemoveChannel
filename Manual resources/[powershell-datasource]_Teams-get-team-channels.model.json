@@ -1,14 +1,10 @@
 [
-  {
-    "key": "DisplayName",
-    "type": 0
-  },
-  {
-    "key": "Description",
-    "type": 0
-  },
-  {
-    "key": "Id",
-    "type": 0
-  }
+    {
+        "key":  "Channel",
+        "type":  0
+    },
+    {
+        "key":  "Id",
+        "type":  0
+    }
 ]
